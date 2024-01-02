@@ -1,3 +1,9 @@
-# folder_navigator
+# Progress Tracker
 
-The program uses pyautogui to control the cursor  movements to specific positions.
+This README documents my 2024 journey where I commit to learning new things every day.This aims to improve my coding skills.
+
+## Track
+| Day | Summary |
+| --- | ------- |
+| 1   | Built a simple file directory automator |
+| 2   | Created a pdf links extractor |
