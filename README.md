@@ -7,3 +7,4 @@ This README documents my 2024 journey where I commit to learning new things ever
 | --- | ------- |
 | 1   | Built a simple file directory automator |
 | 2   | Created a pdf links extractor |
+| 3   | freecodecamp scientific computing |
