@@ -10,3 +10,8 @@ This README documents my 2024 journey where I commit to learning new things ever
 | 3   | freecodecamp scientific computing |
 | 4   | graph (not yet understand completely) |
 | 5   | tower of hanoi  using recursion |
+
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@mutaician/30-nites-of-code)  
+  ![@mutaician #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mutaician)
