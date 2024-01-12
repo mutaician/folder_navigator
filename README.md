@@ -11,7 +11,7 @@ This README documents my 2024 journey where I commit to learning new things ever
 | 4   | graph (not yet understand completely) |
 | 5   | tower of hanoi  using recursion |
 | 6   | Time Calculator |
-
+| 7   | Budget App   |
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mutaician/30-nites-of-code)  
